@@ -1,0 +1,6 @@
+# Resume / personal docs — kept local, not pushed to GitHub
+*.pdf
+*.doc
+*.docx
+resume*
+cv*
