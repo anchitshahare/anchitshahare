@@ -44,4 +44,4 @@ A few things I've found true across every platform product I've built:
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/anchitshahare) · anchit.shahare@cloudwick.com
+[LinkedIn](https://www.linkedin.com/in/anchit-product-management/) · anchit.shahare@cloudwick.com
